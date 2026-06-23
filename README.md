@@ -1,10 +1,8 @@
 # Hi, I'm Cristobal 👋
 
-🎓 Systems Engineering Student at Instituto Tecnológico de Zacatepec
+Systems Engineering Student
 
-💻 Competitive Programmer
-
-🤖 Aspiring Machine Learning Engineer
+Aspiring Machine Learning Engineer
 
 ---
 
